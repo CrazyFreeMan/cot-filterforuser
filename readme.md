@@ -42,8 +42,6 @@ RU
 4. В настройках  выбрать нужный параметр.
 5. После установки добавить в user.tpl {USERS_TOP_FILTER_FU_XXX}, {USERS_TOP_FILTER_FU_XXX_TITLE} для каждого поля
  
-
-По желанию отредактируйте шаблоны.
-
 [![Робота розширення](http://img.youtube.com/vi/WtCJQUBhgnw/0.jpg)](https://www.youtube.com/watch?v=WtCJQUBhgnw)
+
 Розробник - Ярослав Романенко ( yaroslav.romanenko@gmail.com )
