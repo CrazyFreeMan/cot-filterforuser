@@ -45,3 +45,5 @@ RU
 [![Робота розширення](http://img.youtube.com/vi/WtCJQUBhgnw/0.jpg)](https://www.youtube.com/watch?v=WtCJQUBhgnw)
 
 Розробник - Ярослав Романенко ( yaroslav.romanenko@gmail.com )
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/CrazyFreeMan/cot-filterforuser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
